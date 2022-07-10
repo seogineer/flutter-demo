@@ -1,3 +1,3 @@
 # flutter-demo
 
-https://github.com/seogineer/flutter-demo
+https://seogineer.github.io/flutter-demo/
